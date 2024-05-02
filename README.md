@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+// MUI icons
+npm install @mui/material @emotion/react @emotion/styleds
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+//tailwind css
+npm install -D tailwindcss
+npx tailwindcss init
+
+//heroincons install
+npm i @heroicons/react
+npm i @headlessui/react
+
+// install cauresal for sliding banner
+npm i react-responsive-carousel
